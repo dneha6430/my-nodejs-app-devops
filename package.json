@@ -1,0 +1,19 @@
+{
+  "name": "my-nodejs-app",
+  "version": "1.0.0",
+  "description": "DevOps Project 1 - Node.js app with Docker and CI/CD",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "supertest": "^6.3.0"
+  }
+}
